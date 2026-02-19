@@ -1,4 +1,16 @@
-## Hi there 👋
+# Hello There!
+
+### whoami
+My name is Bobo. I was born in 2003 in Sweden, and I’m studying
+to become an electronics engineer with my heart in the embedded
+and Linux world.
+
+### Contact
+Mail: bobobackengstrom@gmail.com
+
+### Links
+LinkedIn: https://www.linkedin.com/in/bobo-b%C3%A4ck-engstr%C3%B6m-6618bb367/
+
 
 <!--
 **Dexter9532/Dexter9532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
