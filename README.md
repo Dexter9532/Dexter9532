@@ -1,4 +1,13 @@
-# Hello There!
+<table>
+  <tr>
+    <td>
+      <h1>Hello There!</h1>
+    </td>
+    <td>
+      <img src="./assets/profile-photo.jpg" alt="profile image" width="120" />
+    </td>
+  </tr>
+</table>
 
 ### whoami
 My name is Bobo. I was born in 2003 in Sweden, and I’m studying
@@ -9,7 +18,7 @@ and Linux world.
 Mail: bobobackengstrom@gmail.com
 
 ### Links
-LinkedIn: https://www.linkedin.com/in/bobo-b%C3%A4ck-engstr%C3%B6m-6618bb367/
+LinkedIn: [Bobo Bäck Engström](https://www.linkedin.com/in/bobo-b%C3%A4ck-engstr%C3%B6m-6618bb367/)
 
 
 <!--
