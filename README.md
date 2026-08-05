@@ -10,9 +10,7 @@
 </table>
 
 ### whoami
-My name is Bobo. I was born in 2003 in Sweden, and I’m studying
-to become an electronics engineer with my heart in the embedded
-and Linux world.
+My name is Bobo. I was born in 2003 in Sweden. Today I work as a Embedded Engineer at ID8 Engineering AB.
 
 ### Contact
 Mail: bobobackengstrom@gmail.com
